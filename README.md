@@ -1,17 +1,17 @@
-# 📝 Modern Todo App — HTML, CSS & JavaScript  
+# 📝 Modern Note App — HTML, CSS & JavaScript  
 
-A **fast, minimal, and responsive** Todo App built with **HTML, CSS, and Vanilla JavaScript**.  
-Easily manage your daily tasks, mark them as done, and stay organized — all in a sleek, modern UI.  
+A **fast, minimal, and responsive** Note Taking App built with **HTML, CSS, and Vanilla JavaScript**.  
+Easily create, edit, and delete notes — stay organized with a clean and modern interface.  
 
 🚀 **Live Demo:** [Click Here to Try the App](https://note-app-tan-kappa.vercel.app/)  
 
 ---
 
 ## ✨ Features  
-- ➕ **Add Tasks** — Quickly add new tasks to your list  
-- ✅ **Mark as Completed** — Strike through tasks once done  
-- 🗑 **Delete Tasks** — Remove completed or unwanted tasks easily  
-- 💾 **Local Storage Support** — Your tasks are saved even after refreshing  
+- ➕ **Add Notes** — Quickly jot down your thoughts or ideas  
+- ✏ **Edit Notes** — Update notes anytime with ease  
+- 🗑 **Delete Notes** — Remove notes you no longer need  
+- 💾 **Local Storage Support** — Your notes are saved even after refreshing  
 - 📱 **Fully Responsive** — Works seamlessly on mobile, tablet, and desktop  
 - 🎨 **Clean & Modern UI** — Stylish design for a pleasant user experience  
 
@@ -41,9 +41,9 @@ cd Note-App
 ## 📍 Usage
 
 1. Open the app in your browser
-2. Add a new task in the input box and press **Enter** or click **Add**
-3. Click on a task to mark it as **completed**
-4. Click the delete icon 🗑 to remove a task
+2. Type your note in the input area and click **Add**
+3. Click on a note to edit it
+4. Click the delete icon 🗑 to remove a note
 5. All changes are saved automatically in your browser
 
 ---
@@ -66,5 +66,4 @@ If you like this project, **give it a star** ⭐ on GitHub — it really helps!
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to use and modify it.
-
 
